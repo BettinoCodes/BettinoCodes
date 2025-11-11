@@ -55,6 +55,8 @@ I am a senior in computer science at Brooklyn College with a strong full-stack d
 ### 🎨 Design & Testing
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Expresso](https://img.shields.io/badge/Espresso-0F9D58?style=for-the-badge&logo=android&logoColor=white)
 
 ### 💬 Communication & Productivity
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
