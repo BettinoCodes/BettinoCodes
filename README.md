@@ -1,4 +1,3 @@
-![Bettino](https://github.com/user-attachments/assets/2c7f9730-3b13-450e-88c6-0942afe17056)
 # 💫 About Me:
 Senior Computer Science student at Brooklyn College with extensive full-stack development experience, demonstrated through multiple successful web applications.
 
