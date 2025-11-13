@@ -1,7 +1,7 @@
 # 💫 About Me:
 Senior Computer Science student at Brooklyn College with extensive full-stack development experience, demonstrated through multiple successful web applications. Feel free to look through my repositories!
 
-
+<!-- 
 # 💻 Tech Stack:
 
 ## 🚀 Frameworks & Libraries
@@ -68,7 +68,7 @@ Senior Computer Science student at Brooklyn College with extensive full-stack de
 
 ### 🎮 Gaming
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-
+-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BettinoCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
