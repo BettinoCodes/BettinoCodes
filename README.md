@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Computer Science student at Brooklyn College with extensive full-stack development experience, demonstrated through multiple successful web applications. Feel free to look through my repositories!
+Computer science graduate from Brooklyn College with extensive full-stack development experience, demonstrated through multiple successful web applications. Feel free to look through my repositories!
 
 <!-- 
 # 💻 Tech Stack:
